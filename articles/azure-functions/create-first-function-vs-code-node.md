@@ -165,6 +165,8 @@ In this section, you create a function app and related resources in your Azure s
 
 1. [Redeploy the function](#deploy-the-project-to-azure) to Azure.
 
+
+
 ## Troubleshooting
 
 Use the table below to resolve the most common issues encountered when using this quickstart.
